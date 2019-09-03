@@ -1,0 +1,144 @@
+#Title: NoTrack Malware Blocklist
+#Description: Malware Domains Block List from quidsup.net
+#Author: QuidsUp
+#License: GNU General Public License v3.0
+#Home: https://quidsup.net/notrack/malware.php
+#@ GitLab : https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+#Updated: 02 Sep 2019
+#LatestVersion 0.9.1
+#---------------------
+1kdailyprofit.biz #Scam
+1kdailyprofit.co #Scam
+96.lt #Phishing
+abcd7777.com #Chinese Scammer
+abcdnf.com #Chinese Scammer
+ad2up.com #Potentially Unwanted Application
+adfuture.cn #Android Malware
+adsunflower.com #Android Malware
+advmob.cn #Android Malware
+akamoihd.net #Ad Injector
+amazonco.uk #Fake Site
+analyticsonwebtrack.site #Scam
+andr-security.com #PUA
+ashleyrnadison.com #Typo
+auslogics.com #PUA
+b3stm0b1l3.com #Potentially Unwanted Application
+baidu.om #Fake Site
+best2018games.com #Popups
+bestadbid.com #Malvertising
+bestupdatemeta.com #Adware
+biosagentplus.com #Scam
+bitleyco.cc #Phishing
+booe.pro #Malvertising
+boudja.com #Adware
+bqdqnmwwnz.com #Command and Control
+check-this-out-now.online #Popups
+consensu.org #Popups
+cookiereports.com #Annoying Cookie Popup
+cybergateway.net #Phishing
+digitaloptout.com #Ad Injector
+donation-tools.org #Ad Injector
+drivethelife.com #PUA
+e-facturaciones.com #Malware
+easy-download.co #Malware
+edatasales.com #PUA
+epicunitscan.info #PUA
+facebookprofileview.com #Malware
+ffdns.net #DNS Exploiters
+freecalculation.com #Malvertising
+gettop.info #RIG Exploit
+giftcards4fans.com #Scam
+globaloffers.link #Malware
+gmai.com #Fake Site
+gmil.com #Fake Site
+gonirola.com #Malicious Site
+googe.com #Fake Site
+googele.com #Typo
+hanstrackr.com #Malware
+hemailaccessonline.com #Browser Hijacker
+hoholikik.club #Malvertising
+ilo134ulih.com #Malvertising
+imgfarm.com #PUA - Mindspark
+incluster.com #PUA
+intimglobus.ru #Suspicious
+iphoneoptimizer.com #Scam
+ironbeast.io #Suspicious
+iubenda.com #Annoying
+iyfnzgb.com #Malvertising
+jackhemmingway.com #Information Stealer
+jesus2020.com #Fake site
+jldnphwwu.bid #Malicious Site
+lhzbdvm.com #Ragentek Rootkit
+loadsource.org #Data Leakage
+luckypushh.com #Malvertising
+madmimi.com #Email spam
+mapsgalaxy.com #PUA - Mindspark
+minaraca.com #Malicious Site
+minisrclink.cool #Adware
+modelwork.org #Browser Hijacker
+myfood.ltd #Potentially Unwanted Application
+mysearch.com #Browser Hijacker
+myxns.cn #DNS Exploiters
+news-bbc-uk.com #Scam
+nextyourcontent.com #Adware
+nuxues.com #Popups
+oaqjwapqdho.com #Potentially Harmful
+oc.uk #Typo of .co.uk
+omnibox.bar #Browser Hijacker
+onclickbright.com #Malvertising
+onlineformfinder.com #PUA - Mindspark
+onlinesurveydaily.com #Annoying
+pdn-1.com #Malware
+pdn-2.com #Malware
+pdn-3.com #Malware
+pdn-4.com #Malware
+pdn-5.com #Malware
+promo-bc.com #Ad Injector
+prosoftsolution.in #Phishing
+proudflex.org #Malware
+prugskh.com #Ragentek Rootkit
+prugskh.net #Ragentek Rootkit
+push-signals.online #Popups
+qnjdtefk.com #Popups
+qpdownload.com #Malware
+reimageplus.com #Scam
+reliablesurfingext.biz #Fake updates
+rensovetors.info #Malware
+retreatoftheretreat.site #Malware - RIG Exploit
+roughted.com #Malvertising
+s4yxaqyq95.com #Popups
+s4yxaqyq95.fuk #Popups
+safedownload.co #Malware
+searchnet.com #Malicious Site
+searchtabnew.com #Malicious Site
+securesurf.biz #Browser Hijacker
+servicekgbfit.us #Fake BSODS
+sharkadnetwork.com #Adware
+simplebookmark.info #Buta Trading - leak analytics
+solvusoft.com #Malicious Files
+special-offers.online #Popups
+styleszelife.com #Malware - Unknown
+surveyrouter.com #Toluna Surveys
+szgl120.com #Scam
+taosha.cc #Android Trojan
+techsuperb.biz #Adware
+tiny.ie #Phishing
+toftothisle.info #Malvertising
+toogle.com #Malicious Site
+tourtodaylaboratory.com #PUA - Filezilla
+trumpetedextremes.com #Ad Injector
+trustednotice.news #Popups
+tweakbit.com #PUA
+uk-hub.com #Phishing
+wbidder.online #Popups
+wcomhost.com #Phishing
+wealthyboost.com #Scam
+wixanalyticssitebuildertool.site #Phishing
+wkvplhxvpk.com #Malware
+wwu-natwiest.com #Typo
+wwwp.link #Malicious Site
+xn--gmail-bgd.com #Fake Site
+xyz.com.br #Scammer
+yourfirstcheapshop.com #Adware
+zief.pl #Malicious Site
+znznznznzn.com #Malicious Site
